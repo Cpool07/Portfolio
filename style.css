@@ -1,0 +1,72 @@
+
+
+
+
+body {
+  margin: 0;
+  font-family: Arial, "Times New Roman", sans-serif;
+  background-image: url(images/background/subtle-white.jpg);
+}
+
+header {
+  height: 160px;
+  background-color: #C7D3DD;
+}
+
+/* ----------- Michael Claypool -------------*/
+.logo {
+  font-family: cursive, "Times New Roman", serif;
+  font-size: 72px;
+  color:  #00000;
+  text-align: center;
+  letter-spacing: -1;
+  margin: 0px;
+  padding: 20px;
+}
+
+/*------Software Engineering Student @ Thinkful---------------*/
+header h2 {
+  font-family: fantasy, cursive, "Times New Roman";
+  font-size: 25px;
+  color: #37393A;
+  text-align: center; 
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 3;
+}
+
+/*---------- @Michael Claypool---------------------*/
+footer {
+  background-color: #949396;
+  text-align: center; 
+  height: 50px;
+  color: #DBE9EE;
+  margin: 0px; 
+  padding: 10px;
+}
+/* -------Intro/About/Contact--------*/
+article {
+  font-family: serif, Montserrat, "Times New Roman";
+  font-size: 17px;
+  padding: 0%;
+  margin: 10px;
+  text-align: center;
+}
+
+/*-------Bullets/Numbered lists--------*/
+ul, ol{
+  display: inline-block;
+  text-align: left;
+  margin-top:0;
+
+}
+
+/* -------- Link styles -------- */
+a {
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+}
+a:link    {color: #52489C}
+a:visited {color: #F71735}
+a:hover   {color: #04724D}
+a:active  {color: #FBCAEF}
